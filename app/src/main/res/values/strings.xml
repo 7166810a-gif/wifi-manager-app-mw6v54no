@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">מנהל Wi-Fi חכם</string>
+    <string name="settings_title">הגדרות</string>
+    <string name="turn_on_wifi">הדלק Wi-Fi</string>
+    <string name="turn_off_wifi">כבה Wi-Fi</string>
+    <string name="scan_networks">סרוק רשתות</string>
+    <string name="wifi_status_on">Wi-Fi מופעל</string>
+    <string name="wifi_status_off">Wi-Fi כבוי</string>
+    <string name="current_network">רשת נוכחית: </string>
+    <string name="not_connected">לא מחובר</string>
+    <string name="available_networks">רשתות זמינות</string>
+    <string name="connect">התחבר</string>
+    <string name="disconnect">התנתק</string>
+    <string name="save_favorite">שמור כמועדפת</string>
+    <string name="remove_favorite">הסר מועדפת</string>
+    <string name="password_prompt">הכנס סיסמה עבור </string>
+    <string name="password_hint">סיסמה לרשת</string>
+    <string name="ok">אישור</string>
+    <string name="cancel">ביטול</string>
+    <string name="permission_required">נדרשת הרשאת מיקום לסריקת רשתות Wi-Fi</string>
+    <string name="grant_permission">אשר הרשאה</string>
+    <string name="auto_connect_favorites">התחברות אוטומטית למועדפות</string>
+    <string name="auto_connect_open">התחברות אוטומטית לרשתות פתוחות</string>
+    <string name="no_networks_found">לא נמצאו רשתות Wi-Fi. לחץ על סריקה.</string>
+    <string name="connecting_to">מתחבר אל...</string>
+    <string name="connected_successfully">התחבר בהצלחה!</string>
+    <string name="connection_failed">החיבור נכשל.</string>
+    <string name="open_network">רשת פתוחה</string>
+    <string name="secured_network">רשת מאובטחת</string>
+</resources>
